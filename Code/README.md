@@ -4,7 +4,7 @@
  
  2. Due to high computational requirements, Transformers require GPU's to run. So, it is advisable to run all the .py files on cloud platforms
  
- 3. Project mainly uses EC2 instance. AWS_setup.txt explains the steps to create an instance and integration with pycharm.
+ 3. Project mainly uses EC2 instance. Setup_AWS_GCP.pdf explains the steps to create an instance and integration with pycharm.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 Folder Structure:
