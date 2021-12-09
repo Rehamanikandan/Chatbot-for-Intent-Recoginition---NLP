@@ -1,0 +1,126 @@
+0			greeting
+1			goodbye
+2			thanks
+3			application_date
+4			application_form
+5			office_hours
+6			fees
+7			payments_modes
+8			application_fees
+9			course_count
+10			course_name
+11			course_duration
+12			eligibility_nationality
+13			admission_process
+14			admission_computerengineering
+15			admission_mechanicalengineering
+16			admission_itengineering
+17			admission_electronicalengineering
+18			admission_electronical&telecomunicationengineering
+19			Campus_Location
+20			Eligibility_criteria
+21			Eligibility_board
+22			backward_class
+23			OBC
+24			SC
+25			TFWS
+26			minority
+27			NRI
+28			DTE_rule
+29			Cancellation_of_admission
+30			Requirement_documents
+31			Documents_OBC
+32			Documents_SC
+33			Documents_TFWS
+34			Documents_NRI
+35			Alternate_Document_OF_Date_Of_Birth
+36			Document_Minority
+37			Document_Handicapped
+38			Certificate_Extracredit
+39			Link_for_Resources
+40			Link_for_Faculty
+41			Link_for_Contact
+42			Gossip
+43			Jokes
+44			greeting
+45			goodbye
+46			thanks
+47			hours
+48			location
+49			payments
+50			services
+51			training
+52			Cryptography
+53			Firewall
+54			Penetration Testing
+55			Vulnerability Assessment
+56			traceroute
+57			VPN
+58			black hat hackers
+59			White hat hackers
+60			Grey hat hackers
+61			ARP
+62			Botnet
+63			Secure Sockets Layers
+64			Transport Layer Security
+65			Cognitive Cybersecurity
+66			Encryption different from Hashing
+67			encryption
+68			Decryption
+69			Hashing
+70			cybersecurity
+71			Forward Secrecy
+72			boot sector virus
+73			direct action virus
+74			resident virus
+75			multipartite virus
+76			spacefiller virus
+77			 file infector virus
+78			computer virus
+79			Features of a Cybersecurity
+80			Benefits of cybersecurity
+81			greeting
+82			goodbye
+83			thanks
+84			noanswer
+85			options
+86			order_tracking
+87			order_components
+88			missing_id
+89			Location
+90			search_person_by_id
+91			appointment status
+92			check_leave
+93			cost_lowering
+94			forgot_password
+95			email_id
+96			manufacturing_problems
+97			search_department
+98			competitors_in_market
+99			key_customers
+100			supplier_info
+101			highest_grossing
+102			connect_people
+103			project_handling_queries
+104			solve_problems
+105			version_update
+106			HR_related_problem
+107			factors_impacting_sale
+108			predict_performance
+109			customer_satisfaction
+110			maintainence
+111			gadgets
+112			commission
+113			invalid
+114			noans
+115			turnover
+116			predict_delay
+117			predict_delay
+118			name
+119			about
+120			configuration
+121			Weather
+122			leave
+123			hours
+124			cabin
+125			domain
