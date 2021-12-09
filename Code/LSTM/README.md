@@ -1,6 +1,7 @@
-Steps to run the LSTM model:
+##Steps to run the LSTM model:
 
 Structure of the file
+
 main.py ---> This is the main project file which contains data preprocessing,pretrained layer,compiling model,predicting intents and responses and chat bot UI integration 
 
 utilities.py ---> This file contains all the utilities required for the main.py (read_glove_vecs,softmax,read_csv,convert_to_one_hot...)
